@@ -1,5 +1,5 @@
 # Calculator
-Calculatrice avec interface graphique .Mots clés : Java ,AWT,SWING
+Calculator with graphic interface .Key words : Java ,AWT,SWING
 1. Objectives:
 
 o Create a simplified calculator:
